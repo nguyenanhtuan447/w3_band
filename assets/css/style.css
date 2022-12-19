@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*
+1. Từ ngoài vào trong
+2. Từ trên xuống dưới
+3. Tổng quan đến chi tiết
+*/
+/*
+1. vị trí 
+2. kích thước
+3. màu sắc
+4. kiểu dáng , chữ, hình ...
+*/
+#main{
+
+}
+
+#header{
+    height: 46px;
+    background-color: #000;
+}
+
+#slider{
+
+}
+
+#content{
+
+}
+
+#footer{
+
+}
